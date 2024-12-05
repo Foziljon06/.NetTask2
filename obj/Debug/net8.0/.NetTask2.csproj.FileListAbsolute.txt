@@ -1,0 +1,14 @@
+C:\.Net Loyihalar\.NetTask2\bin\Debug\net8.0\.NetTask2.exe
+C:\.Net Loyihalar\.NetTask2\bin\Debug\net8.0\.NetTask2.deps.json
+C:\.Net Loyihalar\.NetTask2\bin\Debug\net8.0\.NetTask2.runtimeconfig.json
+C:\.Net Loyihalar\.NetTask2\bin\Debug\net8.0\.NetTask2.dll
+C:\.Net Loyihalar\.NetTask2\bin\Debug\net8.0\.NetTask2.pdb
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.AssemblyInfoInputs.cache
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.AssemblyInfo.cs
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.csproj.CoreCompileInputs.cache
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.dll
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\refint\.NetTask2.dll
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.pdb
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\.NetTask2.genruntimeconfig.cache
+C:\.Net Loyihalar\.NetTask2\obj\Debug\net8.0\ref\.NetTask2.dll
